@@ -1,6 +1,6 @@
 I'm an intermediate C++ developer with some C experience, now learning Rust. I'm also comfortable with Lua and CMake, and know my way around Git and Linux.
 
-I think documentation is half of code quality so I've made a point in becoming a skilled techincal writer too.
+I think documentation is half of code quality so I've made a point in becoming a skilled technical writer too.
 
 # Personal Projects, Past and Present
 
@@ -30,19 +30,22 @@ In early 2022 I wanted to learn more Vulkan and C++, so I developed a Forward Pl
 
 I've briefly touched on (but do not consider myself to have expertise in) all of the following technologies:
 - x86_64 assembly
-- The Android API
+- TAndroid API
 - AngularJS
 - CSS
 - C#
 - GNU Make
+- HTML
 - Java
 - Jenkins
 - OpenGL
+- MongoDB
 - Python
 - R
 - ReactJS
 - Scala
 - Spring Boot
+- SQL
 - TypeScript
 - Unity Engine
 - Vulkan
