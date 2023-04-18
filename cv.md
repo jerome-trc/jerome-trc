@@ -37,6 +37,7 @@ I've briefly touched on (but do not consider myself to have expertise in) all of
 - GNU Make
 - HTML
 - Java
+- JavaScript
 - Jenkins
 - OpenGL
 - MongoDB
