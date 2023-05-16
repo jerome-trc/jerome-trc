@@ -32,6 +32,7 @@ I've briefly touched on (but do not consider myself to have expertise in) all of
 - x86_64 assembly
 - TAndroid API
 - AngularJS
+- AWS
 - CSS
 - C#
 - GNU Make
@@ -47,6 +48,7 @@ I've briefly touched on (but do not consider myself to have expertise in) all of
 - Scala
 - Spring Boot
 - SQL
+- Terraform
 - TypeScript
 - Unity Engine
 - Vulkan
