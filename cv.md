@@ -4,15 +4,15 @@ I think documentation is half of code quality so I've made a point in becoming a
 
 # Personal Projects, Past and Present
 
-## VZScript
+## LithScript
 
-My focus right now is [VZScript](https://github.com/jerome-trc/viletech/blob/master/spec/vzs-spec.md), a bespoke scripting language to be embedded in games and other programs that may benefit.
+My focus right now is [LithScript](https://github.com/jerome-trc/viletech/blob/master/lithscript), a bespoke scripting language to be embedded in games and other programs that may benefit.
 
 Eventual goals are a [Cranelift](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)-based backend complete with an interpreter and JIT, along with a memory model based on [Mike Pall's garbage collector design for LuaJIT 3.0](https://web.archive.org/web/20220826233802/http://wiki.luajit.org/New-Garbage-Collector).
 
 While its primary goal is to iterate on GZDoom's [ZScript](https://zdoom.org/wiki/ZScript) for use in development of Doom source ports, I am building it such that it can be seamlessly re-used in any other application that benefits from scripting.
 
-See https://github.com/jerome-trc/viletech/blob/master/docs/vzs-rationale.md for the reasoning as to the decision to do this.
+See https://github.com/jerome-trc/viletech/blob/master/docs/lith-rationale.md for the reasoning as to the decision to do this.
 
 ## LOUD Project
 
