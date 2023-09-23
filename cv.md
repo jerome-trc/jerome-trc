@@ -4,16 +4,6 @@ I think documentation is half of code quality so I've made a point in becoming a
 
 # Personal Projects, Past and Present
 
-## LithScript
-
-My focus right now is [LithScript](https://github.com/jerome-trc/viletech/blob/master/lithscript), a bespoke scripting language to be embedded in games and other programs that may benefit.
-
-Eventual goals are a [Cranelift](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)-based backend complete with an interpreter and JIT, along with a memory model based on [Mike Pall's garbage collector design for LuaJIT 3.0](https://web.archive.org/web/20220826233802/http://wiki.luajit.org/New-Garbage-Collector).
-
-While its primary goal is to iterate on GZDoom's [ZScript](https://zdoom.org/wiki/ZScript) for use in development of Doom source ports, I am building it such that it can be seamlessly re-used in any other application that benefits from scripting.
-
-See https://github.com/jerome-trc/viletech/blob/master/docs/lith-rationale.md for the reasoning as to the decision to do this.
-
 ## LOUD Project
 
 I'm a passive maintainer on the [LOUD Project](https://github.com/LOUD-Project/Git-LOUD), a modification to the 2007 RTS Supreme Commander: Forged Alliance. Between Q4 2020 and Q1 2021 I made a number of user interface and user experience improvements along with delivering bug fixes. I continue to provide counsel and occasional patches whenever necessary.
